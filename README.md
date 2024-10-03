@@ -1,8 +1,13 @@
-## Hi there 👋
+<h1 alight="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jost&size=35&duration=3750&pause=1000&color=780606&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Mason+Z.;Welcome+to+my+Github+%F0%9F%91%8B" />
+</h1>
 
-WORKING ON IT.
 
+ Working On It.
 <!--
+
+
+    
 **EmperorMurfy/EmperorMurfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
