@@ -10,7 +10,7 @@
 <h3 align="left">
 <br><br>
 <pre>
-   🏫 Jr. @ LMHS • Student
+   🏫 Jr. @ HS • Student
    📅 Started Coding Est. 2022 
    💻 Technologies - MacOS • Windows 
    🤖 FRC @ Team 1712 • <i>Dawgma</i>
