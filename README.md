@@ -1,3 +1,4 @@
+<!-- <img src="[asset link]" width="35%" align="right" /> -->
 <div align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arvo&size=30&duration=3000&pause=1500&color=EAEAEA&background=0A0A0A&center=false&vCenter=true&multiline=true&repeat=false&width=600&height=65&lines=Murf+%7C+%E3%83%9E%E3%83%BC%E3%83%95%E3%82%A3%E3%83%BC" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arvo&size=15&duration=4000&pause=1500&color=EAEAEA&background=0A0A0A&center=false&vCenter=true&multiline=true&repeat=false&width=600&height=40&lines=artist+%E3%83%BB+coder+%E3%83%BB+youtuber+amongst+other+things" alt="Typing SVG" /></a>
@@ -31,37 +32,3 @@
 <div align="left">
 <img alt="Mason's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EmperorMurfy&show_icons=true&theme=cobalt"/>
 </div>
-
-
-<!-- CENTERED VESION 
-
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arvo&size=30&duration=3000&pause=1500&color=EAEAEA&background=0A0A0A&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=65&lines=Murf+%7C+%E3%83%9E%E3%83%BC%E3%83%95%E3%82%A3%E3%83%BC" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arvo&size=15&duration=4000&pause=1500&color=EAEAEA&background=0A0A0A&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=40&lines=artist+%E3%83%BB+coder+%E3%83%BB+youtuber+amongst+other+things" alt="Typing SVG" /></a>
-</div>
-
-<h3 align="center">
-<br><br>
-<pre>
-🏫 So. @ LMHS • Student
-📅 Started Coding Est. 2022 
-💻 Technologies - MacOS • Windows 
-🖌️ Artist • Developer • Gamer
-🤖 FRC @ Team 1712 • <i>Dawgma</i>
-</pre>
-<br><br>
-</h3>
-
-<h1 align="center"><b>⚠️ github stats ⚠️</b></h1>
-
-<div align="center">
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmperorMurfy&layout=compact&&langs_count=8"/>
-</div>
-
-
-
-<div align="center">
-<img alt="Mason's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EmperorMurfy&show_icons=true&theme=cobalt"/>
-</div>
-
--->
