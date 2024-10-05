@@ -1,10 +1,24 @@
+# Hey 
+ Working On It.
+
+
+<h1 align="center"><b>⚠️ github stats ⚠️</b></h1>
+
+<div align="center">
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmperorMurfy&layout=compact&&langs_count=8"/>
+</div>
+
+
+
+<div align="center">
+<img alt="Mason's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EmperorMurfy&show_icons=true&theme=cobalt"/>
+</div>
+
+<!--
+
 <h1 alight="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Jost&size=35&duration=3750&pause=1000&color=780606&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Mason+Z.;Welcome+to+my+Github+%F0%9F%91%8B" />
 </h1>
-
-
- Working On It.
-<!--
 
 
     
