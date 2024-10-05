@@ -1,0 +1,13 @@
+https://shields.io/badges - clickable links w/ badge
+https://simpleicons.org/?q=linktre - icons
+
+wallpapers for readme
+https://i.pinimg.com/originals/aa/ea/34/aaea34386bb6865a1f566186dba35861.jpg
+
+HTML formatting
+https://www.w3schools.com/html/default.asp
+
+Referenced Repos
+https://github.com/MaksymRudnyi/MaksymRudnyi/tree/main
+https://github.com/innng/innng/tree/master
+https://github.com/anuraghazra/github-readme-stats/tree/master
