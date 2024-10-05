@@ -1,6 +1,17 @@
 # Hey 
  Working On It.
 
+<h3 align="center">
+<br><br>
+<pre>
+🏫 So. @ LMHS • Student
+📅 Started Coding Est. 2022 
+💻 Technologies - MacOS • Windows 
+🖌️ Artist • Developer • Gamer
+🤖 FRC @ Team 1712 • <i>Dawgma</i>
+</pre>
+<br><br>
+</h3>
 
 <h1 align="center"><b>⚠️ github stats ⚠️</b></h1>
 
