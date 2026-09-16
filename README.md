@@ -14,7 +14,7 @@
 <h3 align="left">
 <br><br>
 <pre>
-   🏫 Sr. @ HS • Student
+   🏫 Freshman @ Purdue University 30' 
    📅 Started Coding Est. 2022 
    💻 Technologies - MacOS • Windows 
    🤖 FRC @ Team 1712 • <i>Dawgma</i>
